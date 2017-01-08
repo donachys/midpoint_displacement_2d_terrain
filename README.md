@@ -4,4 +4,4 @@ This rust program was inspired by [this blog post](https://bitesofcode.wordpress
 Included is an implementation of Bresenham's line drawing algorithm
 
 ### Example Output:
-![screenshot](images/terrain.png)
+![screenshot](images/terrain_example.png)
